@@ -24,6 +24,7 @@
 
 import Foundation
 import CoreGraphics
+import UIKit
 
 fileprivate extension CGSize {
     
